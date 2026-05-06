@@ -27,4 +27,3 @@ A small React app that searches current weather by city using OpenWeatherMap.
    On Windows PowerShell, `npm.cmd run dev` works the same way.
 
 The app calls OpenWeatherMap's current weather endpoint with city name search, metric units, and JSON responses.
-# WeatherApp
